@@ -1,0 +1,18 @@
+p {
+    font-size: 50px;
+    border-bottom: 10px solid var(--yellow);
+    color: var(--black);
+  }
+.box-set {
+  position: relative;
+  height: 400px;
+  background: darkgray;
+}
+
+.box {
+  position: fixed;
+  width: 150px;
+  height: 150px;
+  background: #2db34a;
+  border: 2px solid black;
+}
